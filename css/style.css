@@ -87,3 +87,19 @@ div.tech-card img {
   height: 1300px;
   z-index: -1;
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #343746;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #171921;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #171921;
+}
